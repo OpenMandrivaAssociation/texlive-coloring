@@ -3,7 +3,7 @@ Version:	41042
 Release:	2
 Summary:	Define missing colors by their names
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coloring
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/coloring
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coloring.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coloring.doc.r%{version}.tar.xz
